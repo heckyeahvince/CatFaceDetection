@@ -1,7 +1,5 @@
 # Cat face detection with OpenCV
 
-catfacedetection-melvincabatuan created by Classroom for GitHub
-
 This project implements detection of cat faces with OpenCV Haar cascade classifier.
 
 ## Prerequisite:
@@ -394,42 +392,3 @@ dependencies {
     compile project(':libraries:opencv')
 }
 ```
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/70b4edeefa11789443ca80c7935e1b85
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-
-## Screenshots:
-
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan/blob/master/device-2015-11-06-210811.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan/blob/master/device-2015-11-06-210918.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan/blob/master/device-2015-11-06-211012.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan/blob/master/device-2015-11-06-211822.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan/blob/master/device-2015-11-06-212138.png)
-
-"*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg.*" - Bjarne Stroustrup (Danish computer scientist, developer of the C++ programming language)
